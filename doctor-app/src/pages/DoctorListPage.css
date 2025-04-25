@@ -1,0 +1,19 @@
+.doctor-list-container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.main-content {
+  display: flex;
+}
+
+.right-section {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.doctor-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
